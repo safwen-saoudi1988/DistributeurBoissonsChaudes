@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\bin\Debug\net8.0\DistributeurBoissonsChaudes.exe
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\bin\Debug\net8.0\DistributeurBoissonsChaudes.deps.json
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\bin\Debug\net8.0\DistributeurBoissonsChaudes.runtimeconfig.json
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\bin\Debug\net8.0\DistributeurBoissonsChaudes.dll
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\bin\Debug\net8.0\DistributeurBoissonsChaudes.pdb
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\obj\Debug\net8.0\DistributeurBoissonsChaudes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\obj\Debug\net8.0\DistributeurBoissonsChaudes.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\obj\Debug\net8.0\DistributeurBoissonsChaudes.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\obj\Debug\net8.0\DistributeurBoissonsChaudes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\obj\Debug\net8.0\DistributeurBoissonsChaudes.dll
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\obj\Debug\net8.0\refint\DistributeurBoissonsChaudes.dll
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\obj\Debug\net8.0\DistributeurBoissonsChaudes.pdb
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\obj\Debug\net8.0\DistributeurBoissonsChaudes.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\DistributeurBoissonsChaudes\obj\Debug\net8.0\ref\DistributeurBoissonsChaudes.dll
